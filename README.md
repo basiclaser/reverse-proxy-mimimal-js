@@ -22,6 +22,8 @@ copy the .env.example file to .env and fill in the values ( has good defaults )
 $ npm start
 ```
 
+then in your browser go to http://localhost:3000/search?query=bob
+
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file
